@@ -1,0 +1,8 @@
+C:\Users\Zachary Seebeck\Documents\GitHub\Demonvale\Demonvale\obj\Debug\Demonvale.csprojResolveAssemblyReference.cache
+C:\Users\Zachary Seebeck\Documents\GitHub\Demonvale\Demonvale\obj\Debug\Demonvale.Properties.Resources.resources
+C:\Users\Zachary Seebeck\Documents\GitHub\Demonvale\Demonvale\obj\Debug\Demonvale.csproj.GenerateResource.Cache
+C:\Users\Zachary Seebeck\Documents\GitHub\Demonvale\Demonvale\bin\Debug\Demonvale.exe
+C:\Users\Zachary Seebeck\Documents\GitHub\Demonvale\Demonvale\bin\Debug\Demonvale.pdb
+C:\Users\Zachary Seebeck\Documents\GitHub\Demonvale\Demonvale\obj\Debug\Demonvale.exe
+C:\Users\Zachary Seebeck\Documents\GitHub\Demonvale\Demonvale\obj\Debug\Demonvale.pdb
+C:\Users\Zachary Seebeck\Documents\GitHub\Demonvale\Demonvale\obj\Debug\Demonvale.Windows_Forms.Launcher.resources
